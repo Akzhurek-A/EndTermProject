@@ -1,0 +1,11 @@
+{
+  "name": "akzhurek",
+  "version": "1.0.0",
+  "description": "EndTerm Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akzhurek Askarbek",
+  "license": "ISC"
+}
